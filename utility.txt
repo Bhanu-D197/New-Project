@@ -1,0 +1,12 @@
+$ git push -u origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'github.com:Bhanu-D197/New-Project.git'
+$ git push -u origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'github.com:Bhanu-D197/New-Project.git'
+$ git push -u origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'github.com:Bhanu-D197/New-Project.git'
+$ git push -u origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'github.com:Bhanu-D197/New-Project.git'
